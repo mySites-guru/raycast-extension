@@ -6,11 +6,12 @@ Read more about how and why we built this in our [blog post](https://mysites.gur
 
 ## Screenshots
 
-![Launcher](images/launcher.png)
-
-![Search](images/search.png)
+<img width="1872" height="1320" alt="CleanShot 2026-02-27 at 20 51 22@2x" src="https://github.com/user-attachments/assets/abbc014b-2299-4454-9657-14dfb71206b2" />
 
 ![Setup](images/setup.png)
+
+<img width="1872" height="1320" alt="CleanShot 2026-02-27 at 20 52 31@2x" src="https://github.com/user-attachments/assets/d256b046-5849-49fb-a1cd-c061776ba824" />
+
 
 ## What is Raycast?
 
