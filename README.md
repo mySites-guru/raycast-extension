@@ -2,6 +2,8 @@
 
 Search and jump to any of your [mySites.guru](https://mysites.guru) managed sites directly from Raycast.
 
+Read more about how and why we built this in our [blog post](https://mysites.guru/blog/mysites-guru-raycast-extension-for-mac/).
+
 ## What is Raycast?
 
 [Raycast](https://www.raycast.com/) is a fast, extendable launcher for macOS that replaces Spotlight. It's basically your command center — search files, run scripts, manage clipboard history, control apps, all from a single keyboard shortcut.
